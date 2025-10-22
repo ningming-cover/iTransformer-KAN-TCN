@@ -1,0 +1,1 @@
+KAN来自TImeKAN论文里模块，TCN很普遍的结构，iTransformer的bolck衔接在最后，环境和iTransfomer大致相同，只需要装KAN和TCN的一两个包，三个模块接口都是对奇过维度的。TCN控制时序依赖，然KAN控制非线性拟合，iTransformer控制多变量干扰。
